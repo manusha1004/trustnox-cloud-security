@@ -1,0 +1,5 @@
+# TRUSTNOX — Cloud IAM Excessive Permissions Engine Dependencies
+networkx>=3.1
+matplotlib>=3.7.0
+streamlit>=1.30.0
+requests>=2.31.0
